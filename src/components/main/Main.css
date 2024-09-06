@@ -1,0 +1,66 @@
+.main {
+  margin-top: 20px;
+    width: 500px;
+    height: 500px;
+    background-image: url('https://moewalls.com/wp-content/uploads/2023/11/satoru-gojo-monochrome-jujutsu-kaisen-thumb-728x410.jpg'); 
+    background-size: cover;
+    position: relative;
+    padding: 20px;
+    color: white;
+    box-shadow: 10px 10px 8px 10px #494848;
+  }
+  
+  .initial-content {
+    text-align: center;
+  }
+  
+  .input-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .color-box {
+    width: 100px;
+    height: 100px;
+    background-color: transparent;  
+    transition: background-color 0.3s ease;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: lightgray;
+    border: none;
+    cursor: pointer;
+    color: #494848;
+    border-radius: 10px;
+    font-weight: 700;
+  }
+  
+  button:hover{
+    background-color: rgb(255, 255, 255);
+    color: #222121;
+  }
+
+  .initial-content{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: cursive;
+    /* color: #222121; */
+  }
+
+  .color-box{
+    font-size: 20px;
+    font-weight: 700;
+  }

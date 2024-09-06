@@ -1,0 +1,31 @@
+.navbar{
+    height: 80px;
+    background-color: rgb(56, 54, 54);
+    
+}
+
+.btn{
+    margin-left: 20px;
+font-weight: 700;}
+
+.logo{
+    width: 90px;
+    height: 70px;
+    /* background-color: blueviolet; */
+   position: absolute;
+   right: 20px;
+   font-size: 30px;
+   font-weight: 800;
+   font-family: cursive;
+   display: flex;
+   align-items: center;
+   color: aliceblue;
+}
+
+.social{
+    min-width: 90px;
+    height: 70px;
+    /* background-color: blueviolet; */
+    position: absolute;
+   right: 200px;
+}
