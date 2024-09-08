@@ -32,7 +32,7 @@ class Main extends Component {
       <div className="main container">
         {!showInputs ? (
           <div className="initial-content">
-            <p>Welcome to the main section</p>
+            <p>Welcome to color divs</p>
             <button className='button1' onClick={this.handleButtonClick}>Show Inputs</button>
           </div>
         ) : (

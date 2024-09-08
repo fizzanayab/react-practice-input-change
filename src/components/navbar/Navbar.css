@@ -1,7 +1,10 @@
 .navbar{
-    height: 80px;
-    background-color: rgb(56, 54, 54);
-    
+    height: 70px;
+    background-color: rgba(56, 54, 54, 0.356);
+    position: fixed;
+    top: 0;
+    border-bottom: 2px solid rgb(82, 80, 80);
+    z-index: 10;
 }
 
 .btn{
@@ -19,7 +22,9 @@ font-weight: 700;}
    font-family: cursive;
    display: flex;
    align-items: center;
-   color: aliceblue;
+   color: #f0cb25;
+   text-shadow: 2px 2px 5px rgb(24, 23, 23);
+
 }
 
 .social{

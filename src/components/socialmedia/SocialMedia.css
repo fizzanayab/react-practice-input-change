@@ -2,7 +2,7 @@
     list-style-type: none;
     float: left;
     margin: 5px;
-    color: rgb(252, 250, 250);
+    color: #000000;
     padding: 10px;
     
 }
@@ -14,7 +14,7 @@
 }
 
 .social_media_ul li:hover{
-    background-color: rgb(161, 167, 172);
+    background-color: #f0cb25;
     color: rgb(41, 40, 40);
     border-radius: 10px;
 }

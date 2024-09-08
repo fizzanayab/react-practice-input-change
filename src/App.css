@@ -1,6 +1,9 @@
 .App {
-  background-color: rgb(151, 156, 156);
-  height: 100vh;
+  /* background-color: rgb(151, 156, 156); */
+  background-image: url("https://divankomodov.ru/upload/iblock/340/3400b5ac407e181eba11edc600c77e6a.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
   width: 100%;
 }
 

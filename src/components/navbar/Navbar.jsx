@@ -29,7 +29,7 @@ class Navbar extends Component {
           <SocialMedia icon_name="youtube" />
           <SocialMedia icon_name="pinterest-square" />
         </ul></div>
-          <button className='btn btn-light' onClick={this.toggleMenu}>Menu</button>
+          <button className='btn btn-warning' onClick={this.toggleMenu}>Menu</button>
         </div>
         <Menu menuClass={this.state.menuClass} />  
       </div>
